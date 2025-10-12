@@ -1,6 +1,5 @@
 'use client';
 
-import Image from "next/image";
 import { useUser } from "@stackframe/stack";
 import { Header } from "@/components/Header";
 import { AuthenticatedView } from "@/components/AuthenticatedView";
